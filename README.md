@@ -1,1 +1,1 @@
-![alt text](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
+![alt text](https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp)
